@@ -9,7 +9,7 @@
   "author": "Jim O'Donnell",
   "license": "Apache-2.0",
   "dependencies": {
-    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy": "^3.0.0",
     "@zooniverse/panoptes-js": "^0.5.1",
     "csv-parse": "^5.5.6"
   }
